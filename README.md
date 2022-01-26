@@ -213,4 +213,4 @@
 > ![](/img/resultado2.PNG)
 >
 > Finalmente ejecutamos el comando ```curl -X POST localhost:8080/actuator/shutdown``` en nuestra terminal para terminar la conexión y obtenemos
-> ![](/img/resultado2.PNG)
+> ![](/img/resultado3.PNG)
