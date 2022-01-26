@@ -109,6 +109,7 @@
 > ```
 
 > Ahora ejecutamos el siguiente comando ```curl localhost:8080``` para consultar hacia lo que se encuentra en localhost en el puerto 8080 en este momento, obtenemos como resultado 
+> 
 > ![](/img/resultado1.PNG)
 
 # Pruebas de unidad
@@ -181,7 +182,7 @@
 > }
 >```
 
-# Agregar serviscios de producción
+# Agregar servicios de producción
 
 > Agregamos la siguiente dependencia al pom para poder usar los servicios de actuator 
 >
