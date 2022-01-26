@@ -210,7 +210,17 @@
 > ```
 >
 > Ahora ejecutamos el comando ```curl localhost:8080/actuator/health``` en nuestra terminal para saber el estado de ese puerto y obtenemos
+>
 > ![](/img/resultado2.PNG)
 >
 > Finalmente ejecutamos el comando ```curl -X POST localhost:8080/actuator/shutdown``` en nuestra terminal para terminar la conexión y obtenemos
+>
 > ![](/img/resultado3.PNG)
+
+## Autor
+[Richard Santiago Urrea Garcia](https://github.com/RichardUG)
+
+## Licencia & Derechos de Autor
+**©** Richard Santiago Urrea Garcia, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+
+Licencia bajo la [GNU General Public License](/LICENSE).
